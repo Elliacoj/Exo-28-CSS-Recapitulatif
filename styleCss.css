@@ -1,0 +1,28 @@
+#premier {
+    color: blue;
+}
+
+#deux {
+    font-style: courier;
+}
+
+#trois {
+    text-align: center;
+}
+
+#quatre {
+    line-height: 50px;
+}
+
+.cinq {
+    background-color: yellow;
+}
+
+.six {
+    text-align: center;
+}
+
+.sept {
+    border: 1px solid blue;
+    height: 200px;
+}
